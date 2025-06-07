@@ -2,6 +2,11 @@
 
 This project was developed by **Evan Denis** as part of a Natural Language Processing (NLP) course project.
 
+## 🎬 Video
+A complete video presentation of the project (goals, methodology, results, and future directions) is available here:  
+[▶️ Watch the video](https://youtu.be/Rdwy_BIc0BQ)
+
+
 ## 🎯 Project Goal
 
 This project aims to automatically classify French literary texts according to **stylistic figures** (figures de style), such as *metaphor*, *anaphora*, *irony*, etc. It leverages **transformer-based models** (CamemBERT) and a **custom-annotated dataset** of literary excerpts.
